@@ -12,8 +12,8 @@ Users can share information through live chat and create posts on their profiles
 
 ### 1️⃣ Installation  
 ```bash
-$ git clone https://github.com/cranesun1226/Coin_Resort.git
-$ cd Coin_Resort
+$ git clone https://github.com/cranesun1226/Coin-Resort.git
+$ cd Coin-Resort
 $ flutter pub get
 $ flutter run
 ```  
@@ -45,7 +45,7 @@ INTRODUCE=""
 - **Database**: Supabase  
 
 ## 🔗 Links  
-- Official Website: [cranesun.co.kr](https://www.cranesun.co.kr)  
+- Official Website: [porturun.com](https://www.porturun.com)  
 
 ---
 
