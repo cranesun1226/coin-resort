@@ -12,8 +12,8 @@ Users can share information through live chat and create posts on their profiles
 
 ### 1️⃣ Installation  
 ```bash
-$ git clone https://github.com/cranesun1226/Coin-Resort.git
-$ cd Coin-Resort
+$ git clone https://github.com/cranesun1226/coin-resort.git
+$ cd coin-resort
 $ flutter pub get
 $ flutter run
 ```  
